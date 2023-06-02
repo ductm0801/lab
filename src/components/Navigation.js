@@ -9,7 +9,7 @@ export default function Navigation(){
               <a href='#news'>News</a>
               <a href='#about'>About</a>
               <a href='#contact'>Contact</a>
-              <text>Search</text>
+              
         </div>
         </nav>
 </div>
