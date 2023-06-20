@@ -5,7 +5,8 @@ export const Films = [
         Title: "Ironman 3",
         Year: "2013",
         Nation: "USA",
-        Desciption:"When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        Desciption: "When Tony Stark's world is torn apart by a formidable terrorist called the Mandarin, he starts an odyssey of rebuilding and retribution.",
+        Trailer: "https://www.youtube.com/embed/oYSD2VQagc4",
     },
     {
         id: 2,
@@ -13,7 +14,8 @@ export const Films = [
         Title: "Thor: The Dark World",
         Year: "2013",
         Nation: "USA",
-        Desciption:"When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.",
+        Desciption: "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with doctor Jane Foster.",
+        Trailer: "https://www.youtube.com/embed/npvJ9FTgZbM",
     },
     {
         id: 3,
@@ -21,7 +23,8 @@ export const Films = [
         Title: "Captain America: The Winter Soldier",
         Year: "2014",
         Nation: "USA",
-        Desciption:"As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+        Desciption: "As Steve Rogers struggles to embrace his role in the modern world, he teams up with a fellow Avenger and S.H.I.E.L.D agent, Black Widow, to battle a new threat from history: an assassin known as the Winter Soldier.",
+        Trailer: "https://www.youtube.com/embed/7SlILk2WMTI",
     },
     {
         id: 4,
@@ -29,7 +32,8 @@ export const Films = [
         Title: "Avengers: Age of Ultron",
         Year: "2015",
         Nation: "USA",
-        Desciption:"When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+        Desciption: "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous Ultron from enacting his terrible plan.",
+        Trailer: "https://www.youtube.com/embed/tmeOjFno6Do",
     },
     {
         id: 5,
@@ -37,7 +41,8 @@ export const Films = [
         Title: "Antman",
         Year: "2015",
         Nation: "USA",
-        Desciption:"Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+        Desciption: "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym, pull off a plan that will save the world.",
+        Trailer: "https://www.youtube.com/embed/pWdKf3MneyI",
     },
     {
         id: 6,
@@ -45,7 +50,8 @@ export const Films = [
         Title: "Captain Marvel",
         Year: "2019",
         Nation: "USA",
-        Desciption:"Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        Desciption: "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races.",
+        Trailer: "https://www.youtube.com/embed/0LHxvxdRnYc",
     },
     {
         id: 7,
@@ -53,7 +59,8 @@ export const Films = [
         Title: "Captain America: Civil War",
         Year: "2016",
         Nation: "USA",
-        Desciption:"Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        Desciption: "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man.",
+        Trailer: "https://www.youtube.com/embed/dKrVegVI0Us",
     },
     {
         id: 8,
@@ -61,7 +68,8 @@ export const Films = [
         Title: "Thor: Ragnarok",
         Year: "2013",
         Nation: "USA",
-        Desciption:"Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        Desciption: "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
+        Trailer: "https://www.youtube.com/embed/ue80QwXMRHg",
     },
     {
         id: 9,
@@ -69,7 +77,8 @@ export const Films = [
         Title: "Black Panther",
         Year: "2018",
         Nation: "USA",
-        Desciption:"T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        Desciption: "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
+        Trailer: "https://www.youtube.com/embed/dxWvtMOGAhw",
     }
 
 
